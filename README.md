@@ -32,7 +32,7 @@ https://developers.google.com/web/fundamentals/web-components
 
 ## BUILD (not frameworks) tools
 
-https://webcomponents.dev/ (has over 40 libaries/compilers in sandboxes that can also be published directly to NPM.
+https://webcomponents.dev/ (has over 40 libaries/compilers in sandboxes that can also be published directly to NPM.)
 
 https://stenciljs.com/docs/overview
 
